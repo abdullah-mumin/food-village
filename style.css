@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.orenge-color{
+    color: orange;
+}
+.order-button{
+    text-decoration: none;
+    color: white;
+    padding: 12px 40px;
+    background-image: radial-gradient(orange, tomato);
+    font-weight: 700;
+    border-radius: 40px;
+    box-shadow: 5px 5px 30px 5px tomato;
+}.text-button-space{
+    margin-bottom: 30px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.flexible-area{
+    display: flex;
+    margin-bottom: 80px;
+}
+.half-width img{
+    width: 70%;
+}
+
